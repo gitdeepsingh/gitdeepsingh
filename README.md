@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gitdeepsingh
 - 👀 I’m interested in building with js
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anytging in js
+- 🌱 I’m currently learning python and more js
+- 💞️ I’m looking to collaborate on anything in js
 - 📫 How to reach me deepsingh.cts@gmail.com
 
 <!---
