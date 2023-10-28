@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitdeepsingh
+- 👋 Hi, I’m Deep Singh, @gitdeepsingh
 - 👀 I’m interested in building with js
 - 🌱 I’m currently learning python and more js
 - 💞️ I’m looking to collaborate on anything in data science, js, UI
